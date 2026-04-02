@@ -26,20 +26,24 @@ Apply machine learning models (especially XGBoost) for prediction tasks
 ---
 
 ## 🧠 Methodology
-1️⃣ Data Preparation
+
+### 1️⃣ Data Preparation
 Load and preprocess multivariate time series data
 Clean and normalize datasets
 Generate statistical features
-2️⃣ Feature Engineering
+
+### 2️⃣ Feature Engineering
 Mean, Standard Deviation
 Mean Squared Error (MSE)
 Range and custom conditions
 Create classification labels using defined rules
-3️⃣ Model Development
+
+### 3️⃣ Model Development
 Train model using XGBoost algorithm
 Apply sliding window / time-based segmentation
 Optimize hyperparameters
-4️⃣ Evaluation
+
+### 4️⃣ Evaluation
 Confusion Matrix
 Accuracy
 Mean Absolute Error (MAE)
