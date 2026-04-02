@@ -15,13 +15,17 @@ Develop a model for detecting anomalies in multivariate time series data
 Design new feature extraction and condition-based methods
 Improve model performance compared to existing approaches
 Apply machine learning models (especially XGBoost) for prediction tasks
-✨ Core Features
-📊 Multivariate Time Series Data Processing
-⚙️ Feature Engineering (Mean, Std, Range, MSE, etc.)
-🧠 Condition-based Classification Design
-🚀 Machine Learning Model using XGBoost
-📈 Model Evaluation (Accuracy, Confusion Matrix, MAE)
-🔍 Error / Anomaly Detection System
+
+---
+
+## ✨ Core Features
+
+- 📊 Multivariate Time Series Data Processing
+- ⚙️ Feature Engineering (Mean, Std, Range, MSE, etc.)
+- 🧠 Condition-based Classification Design
+- 🚀 Machine Learning Model using XGBoost
+- 📈 Model Evaluation (Accuracy, Confusion Matrix, MAE)
+- 🔍 Error / Anomaly Detection System
 
 ---
 
