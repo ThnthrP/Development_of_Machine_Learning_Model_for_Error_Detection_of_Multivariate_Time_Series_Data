@@ -69,6 +69,37 @@ Jupyter Notebook / Python Script
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Dataset Example (4.1)
+![Dataset](screenshots/dataset.png)
+
+### 📩 Feature Engineering (4.2)
+![Feature](screenshots/feature.png)
+
+### 🔄 Data Preparation (4.7)
+![Data Preparation](screenshots/data-prep.png)
+
+### 🏠 Model Output (CSV Result) (4.20)
+![Output CSV](screenshots/output-csv.png)
+
+### 🏠 Model Evaluation (4.16)
+![Evaluation](screenshots/evaluation.png)
+
+### 🏠 Confusion Matrix (Train) (4.38)
+![CM-test](screenshots/cm-train.png)
+
+### 🏠 Accuracy (Train) (4.39)
+![Accuracy](screenshots/accuracy.png)
+
+### 🏠 Save Model (Train) (4.43)
+![Model](screenshots/model.png)
+
+### 🏠 Confusion Matrix (Test) (4.47)
+![CM_test](screenshots/cm-test.png)
+
+---
+
 ## 📂 Project Structure
 
 ```plaintext
