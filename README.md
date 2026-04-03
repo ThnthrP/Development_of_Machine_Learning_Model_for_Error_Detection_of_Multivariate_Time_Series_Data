@@ -11,6 +11,7 @@ This work was conducted as part of a Co-operative Education program under the Da
 ---
 
 ## 🎯 Objectives
+
 Develop a model for detecting anomalies in multivariate time series data
 Design new feature extraction and condition-based methods
 Improve model performance compared to existing approaches
